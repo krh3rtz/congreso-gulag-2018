@@ -1,0 +1,16 @@
+/* Un comentario en CSS */
+/* etiqueta */ 
+.body {
+	margin: 0px;
+}
+
+/* . Para trabajar con clases */
+.bg-verde {
+	/* propiedad : valor ; */
+	background: green;
+}
+
+/* # Para trabajar con id */ 
+#bg-morado {
+	background: purple;
+}
